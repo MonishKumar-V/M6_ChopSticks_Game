@@ -1,4 +1,6 @@
-﻿## High level Requirements :
+﻿## Requirements :
+
+## High Level Requirements :
 
 |ID| High Level requirement  |
 |--|--|
@@ -6,6 +8,9 @@
 | HLR2| The game shall have a Computer to play. |
 | HLR3 | The game shall collect user input. |
 | HLR4| The game shall provide computer input.|
+
+
+## Low Level Requirements :
 
 |ID| Low Level requirements  |
 |--|--|
