@@ -1,4 +1,12 @@
-﻿## Requirements :
+﻿## Abstract :
+ **Chopsticks is a hand game for two or more players, in which players starts with one finger extended in each hand and continue playing by tabbing the opponent player's hand till one of the player has five in both hands. The player who has five or greater in both hands lose the game and the other player wins the game.**
+ 
+ 
+ 
+ 
+ 
+ 
+ ## Requirements :
 
 ## High Level Requirements :
 
